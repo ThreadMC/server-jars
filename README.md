@@ -13,102 +13,135 @@ The repository is structured as follows:
 versions
 ├── 1.21.5
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.21.5.json
 ├── 1.21.4
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.21.4.json
 ├── 1.21.3
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.21.3.json
 ├── 1.21.2
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.21.2.json
 ├── 1.21.1
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.21.1.json
 ├── 1.21
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.21.json
 ├── 1.20.6
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.20.6.json
 ├── 1.20.5
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.20.5.json
 ├── 1.20.4
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.20.4.json
 ├── 1.20.3
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.20.3.json
 ├── 1.20.2
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.20.2.json
 ├── 1.20.1
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.20.1.json
 ├── 1.20
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.20.json
 ├── 1.19.4
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.19.4.json
 ├── 1.19.3
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.19.3.json
 ├── 1.19.2
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.19.2.json
 ├── 1.19.1
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.19.1.json
 ├── 1.19
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.19.json
 ├── 1.18.2
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.18.2.json
 ├── 1.18.1
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.18.1.json
 ├── 1.18
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.18.json
 ├── 1.17.1
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.17.1.json
 ├── 1.17
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.17.json
 ├── 1.16.5
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.16.5.json
 ├── 1.16.4
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.16.4.json
 ├── 1.16.3
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.16.3.json
 ├── 1.16.2
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.16.2.json
 ├── 1.16.1
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.16.1.json
 ├── 1.16
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.16.json
 ├── 1.15.2
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.15.2.json
 ├── 1.15.1
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.15.1.json
 ├── 1.15
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.15.json
 ├── 1.14.4
 │   ├── server.jar
+│   ├── mojang-mappings.tiny
 │   └── 1.14.4.json
 ├── 1.14.3
 │   ├── server.jar
