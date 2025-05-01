@@ -19,7 +19,7 @@ jobs:
       - uses: dessant/repo-lockdown@v4
         with:
           github-token: ${{ secrets.PAT }}
-          issue-close-reason: 'This repository is in read-only mode.'
+          issue-close-reason: 'not planned'
           lock-issue: true
           close-pr: true
           lock-pr: true
