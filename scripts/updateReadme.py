@@ -28,11 +28,11 @@ def update_readme(structure_lines):
 
     start_idx = None
     for i, line in enumerate(lines):
-        if line.strip() == '## Structure':
+        if line.strip() == '## Structure 🗂️':
             start_idx = i
             break
     if start_idx is None:
-        raise Exception("Could not find '## Structure' section in README.md")
+        raise Exception("Could not find '## Structure 🗂️' section in README.md")
 
     code_start = None
     for i in range(start_idx, len(lines)):
@@ -40,7 +40,7 @@ def update_readme(structure_lines):
             code_start = i
             break
     if code_start is None:
-        raise Exception("Could not find code block after '## Structure' in README.md")
+        raise Exception("Could not find code block after '## Structure 🗂️' in README.md")
 
     code_end = None
     for i in range(code_start + 1, len(lines)):
