@@ -11,6 +11,10 @@ The repository is structured as follows:
 
 ```
 versions
+├── 1.21.6
+│   ├── server.jar
+│   ├── mojang-mappings.txt
+│   └── 1.21.6.json
 ├── 1.21.5
 │   ├── server.jar
 │   ├── mojang-mappings.txt
