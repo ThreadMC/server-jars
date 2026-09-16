@@ -11,6 +11,9 @@ The repository is structured as follows:
 
 ```
 versions
+├── 26.3
+│   ├── server.jar
+│   └── 26.3.json
 ├── 26.2
 │   ├── server.jar
 │   └── 26.2.json
